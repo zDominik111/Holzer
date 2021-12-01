@@ -4,3 +4,5 @@ DISCLAIMER:
 
 I am not responsible for any
 damage made to your computer.
+
+**I am no longer updating this malware.
